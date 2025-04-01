@@ -1,0 +1,19 @@
+h1{
+    color: #F38C79;
+    font-family: Algerian;
+    
+}
+a:hover{
+    color:blue;
+}
+p{
+    color: cadetblue;
+}
+img{
+    border-radius: 10%;
+}
+
+body{
+    background-color: #034C53;
+}
+
